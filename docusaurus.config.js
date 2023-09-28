@@ -121,6 +121,11 @@ const config = {
             to: '/docs/priyanshi_chauhan',
             position: 'left'
           },
+          {
+            label: 'Abhinandan Pandey',
+            to: '/docs/abhinandan',
+            position: 'left'
+          },
           
           // {
           //   label: 'Skills',
