@@ -1,7 +1,7 @@
 ---
 id: Prashant_kushwaha
 title: Prashant_kushwaha
-sidebar_label: prashant_kushwaha
+sidebar_label: Prashant_kushwaha
 ---
 
 # Welcome to My Portfolio
