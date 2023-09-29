@@ -188,11 +188,11 @@ const config = {
             position: 'left'
           },
           
-          // {
-          //   label: 'Skills',
-          //   to: '/docs/skills',
-          //   position: 'left'
-          // },
+          {
+            label: 'Prashnat_Kushwaha',
+            to: '/docs/Prashnat_Kushwaha',
+            position: 'left'
+          },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
