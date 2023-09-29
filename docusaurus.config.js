@@ -63,6 +63,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+      },
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         // title: 'My Site',
@@ -72,18 +76,28 @@ const config = {
         // },
         items: [
           {
-            label: 'Ishika',
-            to: '/docs/ishika',
+            label: 'Rachit',
+            to: '/docs/Rachit',
             position: 'left'
           },
           {
-            label: 'Sanika',
-            to: '/docs/sanika',
+            label:'Anshika',
+            to: '/docs/anshika',
+              position: 'left'
+          },
+          {
+            label: 'Lakshya Goel',
+            to: '/docs/Lakshya_Goel',
             position: 'left'
           },
           {
-            label: 'Ashutosh',
-            to: '/docs/ashutosh',
+            label: 'Paras',
+            to: '/docs/Paras_Upadhayay',
+            position: 'left'
+          },
+          {
+            label: 'Sarthak_Rastogi',
+            to: '/docs/Sarthak_Rastogi',
             position: 'left'
           },
           {
@@ -106,11 +120,79 @@ const config = {
             to: '/docs/Rakshita',
             position: 'left'
           },
+          {
+            label: 'saanvisonker',
+            to: '/docs/Saanvi',
+            position: 'left'
+          },
+          {
+            label: 'Deepika Dubey',
+            to: '/docs/Deepika_Dubey',
+            position: 'left'
+          },
+          {
+            label: 'Aakarsh Singh',
+            to: '/docs/Aakarsh',
+            position: 'left'
+          },
+          {
+            label: 'Ayush',
+            to: '/docs/ayush_agrawal',
+            position: 'left'
+          },
+          {
+            label: 'Poorva',
+            to: '/docs/Poorva',
+            position: 'left'
+          },
+          {
+            label: 'Som',
+            to: '/docs/Som_Gupta',
+              position: 'left'
+          },
+          {
+            label: 'Manya Aggarwal',
+             to: '/docs/manya_aggarwal',
+             position: 'left'
+          },
+          {
+            label:'ujjwal Rana',
+            to:'/docs/Ujjwal',
+            position:'left'
+          },
+         { 
+            label:'shreyash chaurasia',
+            to:'/docs/shreyash chaurasia',
+            position:'left'
+        },
+
           // {
           //   label: 'About',
           //   to: '/docs/about',
           //   position: 'left'
           // },
+
+          {
+            label: 'Tejas Sharma',
+            to: '/docs/Tejas_Sharma',
+            position: 'left'
+          },
+          {
+            label: 'prashant_kumar',
+            to: '/docs/prashant_kumar',
+            position: 'left'
+          },
+          {
+            label: 'Priyanshi Chauhan',
+            to: '/docs/Priyanshi Chauhan',
+            position: 'left'
+          },
+          {
+            label: 'Abhinandan Pandey',
+            to: '/docs/abhinandan',
+            position: 'left'
+          },
+          
           // {
           //   label: 'Skills',
           //   to: '/docs/skills',
