@@ -45,8 +45,13 @@ Introducing the World Clock app, your ultimate tool for keeping pace with time z
 
 ### Project 4: Portfolio
 
-- *Description:* My Repository made using HTML CSS only!!
+- *Description:* My Portfolio made using HTML CSS only!!
 - *GitHub Repository:* [Project 4 repo](https://github.com/Pudv95/Portfolio.git)
+
+### Project 5: Air Combat
+
+- *Description:* An air combat multiplayer game made using Javascript and HTML Canvas!!
+- *GitHub Repository:* [Project 5 repo](https://github.com/Pudv95/Air-Combat)
 
 ## Call to Action
 
